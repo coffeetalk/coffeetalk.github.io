@@ -2,6 +2,7 @@
 published: true
 title: Did you say Coffee
 layout: post
+permalink: Did you say Coffee
 ---
 As far as the baristas at Intelligentsia Coffee in the Lakeview neighborhood of Chicago’s north side are concerned, I might as well be a coffee junkie. I most certainly am, by all accounts, but the difference between your run-of-the-mill junkie and me is that I actually have a job. But what’s great about my job as a freelance graphic designer is that I can do it anywhere and at anytime of day. That is, if I have a cup of Intelligentsia Coffee by my side. I started drinking coffee as most people probably do, which was in college with gallons of cream to delude the actual flavor. But eventually you undergo the process of learning to like how it tastes, or noticing the differences between a French roast and an Ethiopian roast, and the difference in texture based on preparation method.
 
