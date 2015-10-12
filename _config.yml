@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://coffeetalk.github.io
+title: Coffee talk
+tagline: A place where coffee is everything
+description: This is the place where i want to talk about my greatest life passion - Coffee !!!
+paginate: 5
